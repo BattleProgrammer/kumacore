@@ -1,6 +1,6 @@
 {
-  "name": "bitcore",
-  "description": "Bitcoin Library",
+  "name": "kumacore",
+  "description": "Kumacoin Library",
   "version": "0.1.34",
   "author": {
     "name": "Stephen Pair",
@@ -33,8 +33,8 @@
     }
   ],
   "keywords": [
-    "bitcoin",
-    "btc",
+    "kumacoin",
+    "kuma",
     "satoshi",
     "money",
     "currency",
@@ -43,7 +43,7 @@
   "main": "bitcore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/BattleProgrammer/kumacore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
