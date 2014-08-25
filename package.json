@@ -40,7 +40,7 @@
     "currency",
     "virtual"
   ],
-  "main": "kumacore.js",
+  "main": "bitcore.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/BattleProgrammer/kumacore.git"
