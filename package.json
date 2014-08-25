@@ -1,5 +1,5 @@
 {
-  "name": "bitcore",
+  "name": "kumacore",
   "description": "Bitcoin Library",
   "version": "0.1.18",
   "author": {
@@ -33,17 +33,17 @@
     }
   ],
   "keywords": [
-    "bitcoin",
-    "btc",
+    "kumacoin",
+    "kuma",
     "satoshi",
     "money",
     "currency",
     "virtual"
   ],
-  "main": "bitcore.js",
+  "main": "kumacore.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/BattleProgrammer/kumacore.git"
   },
   "scripts": {
     "install": "node-gyp rebuild",
